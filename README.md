@@ -2,7 +2,7 @@
 Repositorio para alojar el proyecto que se desarrolló en la materia **Programación 2**.
 ## Proyecto
 
-**Gestión de Tareas**:
+1. **Gestión de Tareas**:
     - **Objetivo**: Desarrollar una aplicación de consola en Java para gestionar tareas personales, donde los usuarios puedan registrarse y realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) sobre sus tareas.
     - **Requerimientos**:
         1. **Registro de Usuarios**:
