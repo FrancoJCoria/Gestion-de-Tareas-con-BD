@@ -9,7 +9,7 @@ Repositorio para alojar el proyecto que se desarrolló en la materia **Programac
             - Los usuarios deben poder registrarse proporcionando un nombre de usuario y una contraseña.
             - No se permiten nombres de usuario duplicados.
             - La aplicación debe almacenar temporalmente los usuarios registrados en memoria.
-        1. **Gestión de Tareas**:
+        1. **Administración de Tareas**:
             - **Crear Tarea**: Los usuarios deben poder crear nuevas tareas proporcionando un título, una descripción y asignando un estado inicial (Nuevo, Pendiente, Finalizado).
             - **Ver Tareas**: Los usuarios deben poder ver la lista de todas sus tareas con su ID, título, descripción y estado.
             - **Actualizar Tarea**: Los usuarios deben poder actualizar el título, la descripción y el estado de una tarea específica, identificándola por su ID.
